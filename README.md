@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tomaszkapron, automatic control and robotics student
-- 👀 I’m interested in process automation and broad technology
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m @tomaszkapron, robotics and autonomus systems student
+- 👀 I’m interested in autonomous vehicles, backend web development 
+- 🌱 I’m currently learning Java and Spring Boot, ROS2 and Autoware
 - 📫 How to reach me: tomasz.a.kapron@gmail.com
 
 <!---
